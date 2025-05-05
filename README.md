@@ -32,7 +32,9 @@ Ana karakter paralel boyutlarla oynayarak gerçekliği parçalamıştır. Oyun, 
 - Oyun içinde tekrar kullanılabilir bileşenler oluşturma 🎲
 
 
+
 ## Resimler 🔮 🖼
+
 
 ![Image](https://github.com/user-attachments/assets/05accaed-54fe-4bf8-879e-2eab5d24ec64)
 
@@ -50,6 +52,14 @@ Ana karakter paralel boyutlarla oynayarak gerçekliği parçalamıştır. Oyun, 
 
 
 
+
 ## Display 🎬
 
-[![Watch the video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=bTyxJoArfe4/hqdefault.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=bTyxJoArfe4)
+
+[YouTube Videomu İzle](https://www.youtube.com/watch?v=bTyxJoArfe4)
+
+
+<br>
+
+
+![Image](https://github.com/user-attachments/assets/cd3ae931-b30a-472e-a944-4b7a050c4a3f)
