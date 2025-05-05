@@ -1,8 +1,8 @@
 # THE VARIANTS
 
-Yapay Zeka Ve Teknoloji Akademesi' nin Game Jam-Paralel Evren Konulu projesi için Grup 15 tarafından yapılmıştır.👩🏻‍💻👨🏻‍💻👨🏻‍🎨👩🏻‍🎨
+Yapay Zeka Ve Teknoloji Akademesi' nin Game Jam-Paralel Evren Konulu projesi için Grup 15 tarafından yapılmıştır.👩🏻‍💻👨🏻‍🎨
 
-### Proje Adı: THE VARIANTS ☢
+### Proje Adı: THE VARIANTS 
 ### Tür: Bulmaca / Platform / Bilim Kurgu 🧩 🏗 💊
 
 
