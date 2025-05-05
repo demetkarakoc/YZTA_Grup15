@@ -14,10 +14,10 @@ Ana karakter paralel boyutlarla oynayarak gerçekliği parçalamıştır. Oyun, 
 
 
 ## Kullanılan Araçlar 🛠
-✨**Unity 6** = Oyun motoru olarak kullanıldı.
-🖼**Blender** = 3D Modelleme ve animasyonlar için kullanıldı.
-🎨**ShaderLab** = Unity'de görsel efektlerin nasıl işlendiğini, malzemelerin (materials) nasıl görüneceğini belirlemek, tanımlamak için HLSL (High-Level Shader Language) kodlarıyla birlikte kullanıldı.
-🎗**C# dili** =  Unity oyun motorunda ana programlama dili olarak kullanıldı. Kullanım amaçları;
+- ✨**Unity 6** = Oyun motoru olarak kullanıldı.
+- 🖼**Blender** = 3D Modelleme ve animasyonlar için kullanıldı.
+- 🎨**ShaderLab** = Unity'de görsel efektlerin nasıl işlendiğini, malzemelerin (materials) nasıl görüneceğini belirlemek, tanımlamak için HLSL (High-Level Shader Language) kodlarıyla birlikte kullanıldı.
+- 🎗**C# dili** =  Unity oyun motorunda ana programlama dili olarak kullanıldı. Kullanım amaçları;
 - Karakter hareketleri 🏃🏻‍♂️🏃🏻‍♀️
 - Olay (Event) Sistemi ve Girdi Kontrolleri 🤹🏻‍♀️🤹🏻‍♂️
 - Kullanıcının yaptığı işlemlere göre tepki verilmesi 📲📴
